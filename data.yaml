@@ -1,0 +1,13 @@
+train: ../train/images
+val: ../valid/images
+test: ../test/images
+
+nc: 1
+names: ['polyp']
+
+roboflow:
+  workspace: xuan-ky
+  project: polyp_detection-pkrr1
+  version: 3
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/xuan-ky/polyp_detection-pkrr1/dataset/3
