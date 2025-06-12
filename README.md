@@ -1,7 +1,7 @@
 # ColonCancerPytorchLightning
-Image classification on Colon cancer tumors with full explain ability and reproducibility controls
+Image classification on Colon polyps with full explainability and reproducibility controls
 
-I've created a complete PyTorch Lightning project for colon cancer detection: 
+This is a PyTorch Lightning project for colon cancer detection: 
 
 1. model.py: Contains the CNN-based model architecture for polyp detection
 
